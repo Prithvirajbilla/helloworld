@@ -1,0 +1,17 @@
+        .section        .rodata
+string:
+        .ascii "Hello, world!\n"
+length:
+        .quad . -string
+
+        .section        .text
+        .globl _start
+_start:
+        movq $4, %rax
+        movq $1, %rbx
+        movq $string, %rcx
+        movq length, %rdx
+        int $0x80
+        movq %rax, %rbx
+        movq $1, %rax
+        int $0x80

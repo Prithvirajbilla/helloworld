@@ -1,0 +1,5 @@
+Class MainForm
+    Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        MessageBox.Show("Hello, world!")
+    End Sub
+End Class

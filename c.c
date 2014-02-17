@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    void* message = "Hello World";
+    puts(message);
+    return 0;
+}
