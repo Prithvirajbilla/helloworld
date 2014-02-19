@@ -1,6 +1,10 @@
 helloworld
 ==========
-113 programs
+113 programs.
+
+Code for some of the programming languages is taken from
+http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
+
 Helloworld programs in different languages
 
 1 .  ABAP
@@ -228,4 +232,10 @@ Helloworld programs in different languages
 112 .  XTEND
 
 113 .  ZIMBU
+
+todo
+====
+inspired from [99bottles](http://www.99-bottles-of-beer.net/).
+
+add few more [languages] (http://rosettacode.org/wiki/Hello_world/Text)
 
