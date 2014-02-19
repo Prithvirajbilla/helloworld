@@ -1,1 +1,1 @@
-BEGIN { if ( NF == 0 ) print "Hello, world!" }
+BEGIN { print "Hello, world!" }
