@@ -1,0 +1,3 @@
+extern int puts(char*);
+hello = puts "Hello, world!";
+hello;
