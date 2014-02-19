@@ -1,3 +1,5 @@
 <?php
 
 print 'Hello world';
+
+?>
