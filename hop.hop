@@ -1,0 +1,7 @@
+( define - service  ( hello - world ) 
+    ( &lt; HTML &gt; 
+       ( &lt; HEAD &gt; 
+ 	 ( &lt; TITLE &gt;   "Hello, world!" ) ) 
+       ( &lt; BODY &gt; 
+ 	 "Hello, world!" ) ) ) 
+ 
