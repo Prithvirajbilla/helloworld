@@ -235,7 +235,8 @@ Helloworld programs in different languages
 
 todo
 ====
-inspired from [99bottles](http://www.99-bottles-of-beer.net/).
 
-add few more [languages] (http://rosettacode.org/wiki/Hello_world/Text)
+add few more [languages] (http://rosettacode.org/wiki/Hello_world/Text) 
+
+Inspired by [99bottles](http://www.99-bottles-of-beer.net/).
 
