@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+<style>
+body:before{
+	content:"Hello world";
+}
+</style>
+</body>
