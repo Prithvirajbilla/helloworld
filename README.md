@@ -1,6 +1,6 @@
 helloworld
 ==========
-128 programs.
+127 programs.
 
 Code for some of the programming languages is taken from
 http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
@@ -69,7 +69,6 @@ Helloworld programs in different languages
 * julia
 * kotlin
 * latex
-* LICENSE
 * livescript
 * logo
 * logtalk
