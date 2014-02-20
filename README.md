@@ -138,7 +138,7 @@ Helloworld programs in different languages
 todo
 ====
 
-add few more [languages] (http://rosettacode.org/wiki/Hello_world/Text)
+add few more languages
 
 Inspired by [99bottles](http://www.99-bottles-of-beer.net/).
 
