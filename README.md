@@ -47,6 +47,7 @@ Helloworld programs in different languages
 * emacs_lisp
 * erlang
 * falcon
+* false
 * fancy
 * fantom
 * fimpp
@@ -117,6 +118,7 @@ Helloworld programs in different languages
 * stata
 * supercollider
 * supernova
+* swift
 * tcl
 * tex
 * ti-basic
