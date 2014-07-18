@@ -1,4 +1,4 @@
 PROC main()
-    WriteF('Hello, world!')
- ENDPROC
+    WriteF('Hello, world!\n')
+ENDPROC
  
