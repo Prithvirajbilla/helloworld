@@ -1,0 +1,14 @@
+.data
+
+prompt1:  .asciiz "Hello World!\n"
+
+.text
+
+main:
+
+#display "Hello World!\n" message
+         li $v0, 4           #code for print string
+         la $a0, prompt1     #points $a0 to prompt string
+         syscall             #print the string
+  
+
