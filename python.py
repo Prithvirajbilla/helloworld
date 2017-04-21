@@ -1,4 +1,1 @@
-def sayHello():
-    print('Hello World!')
-
-sayHello()
+print('Hello World!')
