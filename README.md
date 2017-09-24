@@ -87,6 +87,7 @@ Helloworld programs in different languages
 * omgrofl
 * pascal
 * perl
+* perl 6
 * php
 * pl_sql
 * postscript
