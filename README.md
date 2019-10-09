@@ -1,6 +1,6 @@
 helloworld
 ==========
-127 programs.
+128 programs.
 
 Code for some of the programming languages is taken from
 http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
@@ -77,6 +77,7 @@ Helloworld programs in different languages
 * lua
 * m4
 * magic
+* markdown
 * mathematica
 * matlab
 * modula-2
